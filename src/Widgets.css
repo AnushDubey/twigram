@@ -1,0 +1,8 @@
+.widgets {
+  margin-top: 90px;
+  margin-left: -80px;
+}
+.widgets img{
+  display: block;
+  object-fit: cover;
+}

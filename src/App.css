@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  /* background: #405fbd; */
+  background-image: 'https://png.pngtree.com/background/20211215/original/pngtree-modern-simple-elegant-red-landing-page-website-background-picture-image_1454686.jpg';
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+}
+.app__body {
+  display: flex;
+}

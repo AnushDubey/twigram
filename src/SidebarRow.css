@@ -1,0 +1,31 @@
+.sidebarRow {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.sidebarRow:hover {
+  background: #dfdfdf;
+  border-radius: 5px;
+}
+.sidebarRow h4 {
+  margin-left: 28px;
+  font-weight: 600;
+}
+.sidebarRow .MuiSvgIcon-root {
+  font-size: xx-large;
+  color: #f13838;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
